@@ -1,13 +1,47 @@
-<Style>
-            body{
-                text-align:center;
+
+            #Values {
+                font-family: Segoe UI;
+                font-style: italic;
+                color: white;
+                text-align: justify;
+                font-size: 20pt;
             }
-          h1 {
-              color:purple;
+            h1 {
+              color:whitesmoke;
               text-align:center;
-              text-shadow: blueviolet;
-          }
-          h4 {
-              color:darkred 
-          }
-</Style>
+              font-family: Comic Sans MS , cursive, sans-serif;
+              font-size: 55pt;
+              color: whitesmoke;
+              background-color: purple;.
+              background-size: width:100% ;
+            }
+            p{
+              color:whitesmoke;
+              font-family: Cambria, Cochin, Georgia, Times,;
+              text-align: left;
+              font-weight: bold;
+              font-size:15pt;
+              font-style: italic
+            }
+            h3{
+              text-align: center;
+              color: white;
+              font-family: cursive,sans-serif;
+              font-weight: bold;
+              font-feature-settings: on;
+              font-size: 28pt;
+            }
+
+            button:hover{
+                background-color: lightslategray;
+                color: whitesmoke;
+            }
+
+            form {
+                color: blueviolet;
+            }
+
+            body{
+                background-image: url("C:/Users/TIM/Pictures/Wallpapers/21456.jpg");
+                background-repeat: no-repeat;
+            }
